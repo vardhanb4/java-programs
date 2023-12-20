@@ -24,3 +24,15 @@ public class SumAverage
 }
 
 output 
+//Enter first number:
+//3
+//Enter second number:
+//4
+//Enter third number:
+//5
+//Enter fourth number:
+//6
+//Enter fifth number:
+//7
+//Sum of 2, 3, 4, 5, 6 = 20
+//Average of 2, 3, 4, 5, 6 = 5
